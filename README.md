@@ -1,3 +1,5 @@
+Simple Ethereum based project. Tape in your word, send it to the ETH network and wait until its confirmation and get it on the page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
